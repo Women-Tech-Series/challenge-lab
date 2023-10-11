@@ -1,4 +1,6 @@
 
+## M2-W1 Challenge Lab: Working with Virtual Machines
+
 ### Your challenge
 Your company development is building 2 applications one will use Nginx and another Apache2 to serve the app webpages to the internet.
 
